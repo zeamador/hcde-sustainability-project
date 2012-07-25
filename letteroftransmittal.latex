@@ -1,0 +1,15 @@
+\documentclass[letterpaper,11pt]{letter}
+\usepackage{fullpage}
+\address{70 Wilcox Hall\\University of Washington\\Seattle, WA 98195}
+
+
+\begin{document}
+
+\begin{letter}{70 Wilcox Hall\\University of Washington\\Seattle, WA 98195}
+    \opening{Dear David Fray:}
+    testing
+    \closing{Sincerely,\\
+    Muel Kiel and Zachary Amador}
+
+\end{letter}
+\end{document}
