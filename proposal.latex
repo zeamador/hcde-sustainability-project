@@ -1,0 +1,23 @@
+\documentclass[11pt,letterpaper,titlepage]{article}
+\usepackage{fullpage}
+\usepackage{graphicx}
+
+\begin{document}
+\title{Improving the Server Efficiency for College of Engineering Computing Services}
+\author{Muel Kiel \and Zachary Amador}
+\date{July 27, 2012}
+\maketitle
+\renewcommand{\thepage}{\roman{page}}
+% The letter of transmittal created Separately
+\includegraphics{letteroftransmittal}
+
+\tableofcontents
+\listoffigures
+
+\newpage
+
+\renewcommand{\thepage}{\arabic{page}}
+\setcounter{page}{1}
+\section{Executive Summary}
+\section{Introduction}
+\end{document}
