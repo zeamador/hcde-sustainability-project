@@ -1,4 +1,4 @@
-\documentclass[11pt,letterpaper,titlepage]{article}
+\documentclass[12pt,letterpaper,titlepage]{article}
 \usepackage{fullpage}
 \usepackage{graphicx}
 
@@ -9,7 +9,7 @@
 \maketitle
 \renewcommand{\thepage}{\roman{page}}
 % The letter of transmittal created Separately
-\includegraphics{letteroftransmittal}
+\centerline{\includegraphics{letteroftransmittal}}
 
 \tableofcontents
 \listoffigures
@@ -19,5 +19,20 @@
 \renewcommand{\thepage}{\arabic{page}}
 \setcounter{page}{1}
 \section{Executive Summary}
+
+Computer data centers and server farms are using an increasing amount of power. Computing in general is moving to a state of constant connection to servers. People are using multiple devices and are starting to demand the ability to access their data on all of them. 
+
+In our own department we facilitate such desires through our on site servers. We run servers for data shares and roaming profiles allowing users to get their data on any comoputer we administer. Most of this data is stored on our servers Tanhauser and Zhora.
+
+In addition to these servers our department is required to run several other servers to provide the best experience to our users. These include DNS servers, DHCP servers, web servers, software management servers, license servers and several others. 
+
+The strain of running these servers, as well as cooling them has pushed our power usage almost to the limit of what our server room can provide. As the number of departments we support, and the size of our departments grow, the power consumption is going to become untenable for our current infrastructure and the cost to improve that infrastructure will be considerable. 
+
+there are less expensive ways of dealing with this problem. The best option would be to replace our current infrastructure with lower powered ``micro servers.'' These micro servers use different style of processors which are known to be more power efficient. In addition the heat from these micro servers is known to be less, and more easily dissipated. The combination of these two things could significantly decrease our power requirements.
+
+Ultimately, these decreased power requirements would lead to reduced costs. Both in the short term from decreased power bills, and in the long term by lessening the need for reworking our infrastructure. 
 \section{Introduction}
+\section{Timeline and Costs}
+\subsection{Timeline}
+\subsection{Costs}
 \end{document}
