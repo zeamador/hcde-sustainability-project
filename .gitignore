@@ -1,0 +1,10 @@
+# Ignore Vim swap files
+*.swp
+*.swo
+
+# Ignore Latex generated files
+*.aux
+*.log
+*.toc
+*.lof
+
