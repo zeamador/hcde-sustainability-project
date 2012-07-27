@@ -7,7 +7,8 @@
 
 \begin{letter}{70 Wilcox Hall\\University of Washington\\Seattle, WA 98195}
     \opening{Dear David Fray:}
-    testing
+    Enclosed is our proposal for increasing the energy efficiency of the College of Engineering Computer Services servers.  We have included a detailed description of our strategy, as well as a preliminary budget.  Also enclosed is a summary of our research that leads us to believe that our strategy would be effective. \\
+    We believe that by changing the server computers to ARM-based computers, the server power use would drop significantly.  We are aware that the Computer Services server room is running at near-maximum current draw, despite having recently upgraded the cooling facilities for the servers.
     \closing{Sincerely,\\
     Muel Kiel and Zachary Amador}
 
